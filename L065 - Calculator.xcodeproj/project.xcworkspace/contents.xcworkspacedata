@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Calculator Layout iOS13.xcodeproj">
+      location = "self:/Users/arthur/_git/edu-ios-lesson065/L065 - Calculator.xcodeproj">
    </FileRef>
 </Workspace>
